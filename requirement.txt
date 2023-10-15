@@ -1,0 +1,11 @@
+Flask==2.1.1                 # A micro web framework for Python
+pymongo==3.12.0              # Official MongoDB driver for Python
+Flask-PyMongo==2.3.0         # Flask extension for PyMongo
+Flask-WTF==0.15.1            # Flask extension for handling web forms
+WTForms==2.3.3               # A library for creating web forms in Flask
+bcrypt==3.2.0               # Password hashing library
+itsdangerous==2.1.1          # Library for handling tokens and security
+Jinja2==3.1.0                # Template engine used by Flask
+MarkupSafe==2.1.1            # A library for HTML escaping
+Werkzeug==2.1.1              # WSGI utility library for Flask
+
