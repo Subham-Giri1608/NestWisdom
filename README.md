@@ -1,6 +1,5 @@
 NestWisdom - Parenting and Family Advice 
 
-
 ```markdown
 # Parenting and Family Advice Website
     ```bash
@@ -39,7 +38,9 @@ This is a web application for a parenting and family advice website. It provides
 - MongoDB (Database)
 - HTML, CSS, and JavaScript (Frontend)
     ```
-    
+  Devop Setup
+  
+
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
